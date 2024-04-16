@@ -7,6 +7,12 @@ Console flasher tool for the following Dygma products:
 - Raise 2 Wired
 - Raise 2 Wireless
 
+Made with NodeJS and packaging tools for JS environment.
+
+Part of the source code comes from Bazecor, specifically the flasher tool for Dygma's keyboards.
+
+To be used when developing the Neuron Wired/Wireless firmware for Defy & Raise 2.
+
 Usage:
 
 - run locally the compiled script, do so using two arguments:
