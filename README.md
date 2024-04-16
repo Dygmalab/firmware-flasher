@@ -14,8 +14,8 @@ Part of the source code comes from Bazecor, specifically the flasher tool for Dy
 To be used when developing the Neuron Wired/Wireless firmware for Defy & Raise 2.
 
 Usage:
-
-- run locally the compiled script, do so using two arguments:
+- Download the newest executable file and copy the prebuilds folder to its base path
+- Then run locally the compiled executable, do so using two arguments:
   - Arg 0: Full or relative path to the firmware hex file.
   - Arg 1: Full erase option, "true" activates it, "false" disables it.
 
